@@ -82,7 +82,7 @@ Semestre: Semestre correspondente.<br>
 
 ## Explicando as relações das tabelas
 
-1. Dim_Professor<br>
+1. Professor<br>
 Essa tabela contém informações detalhadas sobre os professores, como o nome, especialidade, data de contratação e nível.<br>
 
 Relacionamento:<br>
