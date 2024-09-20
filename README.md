@@ -123,3 +123,8 @@ Curso -> Fact_Professor: 1 para N (Um curso pode ter várias ofertas de discipli
 Departamento -> Fact_Professor: 1 para N (Um departamento pode ter vários professores ensinando disciplinas diferentes)<br>
 Disciplina -> Fact_Professor: 1 para N (Uma disciplina pode ser ministrada por vários professores)<br>
 Dimensao_Data -> Fact_Professor: 1 para N (Uma data pode estar relacionada a várias ofertas de disciplinas)<br>
+
+## Tabela no MySQL
+
+![image](https://github.com/user-attachments/assets/ff085609-0ce4-495f-a255-ab375bd8397c)
+
