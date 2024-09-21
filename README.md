@@ -1,4 +1,4 @@
-# Star Schema - Análise da tabela Professor 
+# Star Schema - Análise da tabela Fact_Professor 
 
 ## Contexto
 Este projeto tem como objetivo criar um modelo dimensional (Star Schema) baseado em um diagrama relacional para análise de dados dos professores de uma universidade. A ideia principal é permitir a análise de métricas relacionadas aos professores, como cursos ministrados, departamentos envolvidos, disciplinas oferecidas e dados temporais. O foco da modelagem está no professor como o objeto de análise, excluindo dados sobre os alunos.
